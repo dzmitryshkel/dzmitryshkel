@@ -1,6 +1,6 @@
 # Hey, world! I'm Dzmitry :)👋
 
-![QA GIF](https://media.tenor.com/S-CxC0jhfrMAAAAd/qa.gif)
+![Dog Quality Assurance GIF](https://media.tenor.com/LEt4EGx11lsAAAAC/dog-quality-assurance.gif)
 
 ## 🚀 About me
 
