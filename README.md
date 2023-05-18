@@ -1,5 +1,7 @@
 # Hey, world! I'm Dzmitry :)👋
 
+![QA GIF](https://media.tenor.com/S-CxC0jhfrMAAAAd/qa.gif)
+
 ## 🚀 About me
 
 My name is Dzmitry Shkel, I’m 21 yo and I’m a novice QA engineer who has successfully completed Software Testing Course with A1QA and already have month+ experience as QA trainee. I am striving to apply my skills and experience to obtain a position of a QA assurance engineer. 
